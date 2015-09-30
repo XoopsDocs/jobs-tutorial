@@ -23,7 +23,7 @@ This module is for posting Jobs announcements on your Website.
 6. Users can now create their resume if they don't have one to upload. For now it is just a one field form using a WYSIWYG editor. In the future it will get more involved, hopefully
 7. Users can add their resume as .doc or .pdf, they can also create one from scratch if they don't have one.(Uses a WYSIWYG editor) Resumes can be set to private, using a password or key that the submitter creates when adding their resume, no one can view the resume without the key, if the submitter adds a key. If no key is added the listing will be public
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the Jobs Module (Admin side)*
 
 # Table of Content
