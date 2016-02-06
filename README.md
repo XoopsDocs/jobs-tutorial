@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module Jobs
 #### for XOOPS 2.5.7
       
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](en/assets/logoModule.png)
             
 ## User Manual
 
@@ -23,7 +23,7 @@ This module is for posting Jobs announcements on your Website.
 6. Users can now create their resume if they don't have one to upload. For now it is just a one field form using a WYSIWYG editor. In the future it will get more involved, hopefully
 7. Users can add their resume as .doc or .pdf, they can also create one from scratch if they don't have one.(Uses a WYSIWYG editor) Resumes can be set to private, using a password or key that the submitter creates when adding their resume, no one can view the resume without the key, if the submitter adds a key. If no key is added the listing will be public
 
-![image001.png](assets/image001.jpg)
+![image001.png](en/assets/image001.jpg)
 *Figure 1: Main view of the Jobs Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
@@ -38,16 +38,16 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Miscellaneous](book/8other.md) 
-* [Module Credits](book/9credits.md)
-* [About XOOPS CMS](book/10aboutxoops.md)
+* [Install/Uninstall](en/book/1install.md)
+* [Administration Menu](en/book/2administration.md)
+* [Preferences](en/book/3preferences.md)
+* [Operating Instructions](en/book/4operations.md)
+* [The User Side](en/book/5userside.md)
+* [Blocks](en/book/6blocks.md)
+* [Templates](en/book/7templates.md)
+* [Miscellaneous](en/book/8other.md) 
+* [Module Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
 
 ##License:
 
